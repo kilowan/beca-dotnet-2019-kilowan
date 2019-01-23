@@ -1,6 +1,10 @@
 ﻿namespace BusinessCore
 {
-        public class Door
+        public enum Door
         {
+            LeftFront,
+            RightFront,
+            RearLeft,
+            RearRight,
         }
 }
