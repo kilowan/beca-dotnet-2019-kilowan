@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace BusinessCore
 {
-    public class Class1
+    public class Car
     {
+        Door[] Doors;
+        Wheel[] Wheels;
+        Bodywork Carbodywork;
     }
 }
