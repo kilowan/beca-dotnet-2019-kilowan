@@ -9,7 +9,7 @@ namespace BusinessCore
     public class Car
     {
         Door[] Doors;
-        private Wheel[] Wheels;
+        Wheel[] Wheels;
         Bodywork Bodywork;
     }
 }
